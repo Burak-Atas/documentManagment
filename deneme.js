@@ -7,3 +7,5 @@ console.log("burakkk ataşşş")
 
 
 console.log("psuhlama başarılı");
+
+console.log("pushlama başarılı 2");
