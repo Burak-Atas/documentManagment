@@ -9,3 +9,6 @@ console.log("burakkk ataşşş")
 console.log("psuhlama başarılı");
 
 console.log("pushlama başarılı 2");
+console.log("pushlama başarılı 2");
+console.log("pushlama başarılı 2");
+console.log("pushlama başarılı 2");
