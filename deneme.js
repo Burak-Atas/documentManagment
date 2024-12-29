@@ -1,4 +1,6 @@
-console.log("artık çalış sıkıldım")
+console.log("-------------------------------");
 
-console.log("artık çalış sıkıldım")
-console.log("artık çalış sıkıldım")
+console.log('BURAK ATAŞ');
+
+
+console.log("-------------------------------");
